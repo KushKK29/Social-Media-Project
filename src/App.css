@@ -1,0 +1,62 @@
+.content {
+  display: flex;
+}
+.contain {
+  width: 100%;
+}
+.sidebar {
+  min-height: 800px;
+}
+.post-card {
+  margin: 20px 50px;
+}
+.hastag {
+  margin: 0px 3px;
+}
+.reaction {
+  margin: 15px 0 0 0;
+}
+.create-post {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+.welcome {
+  display: center;
+  text-align: center;
+  margin: 50px 0;
+}
+.spinner {
+  margin: 10% 0;
+}
+.Login {
+  margin-top: 100px;
+  margin-left: 250px;
+  width: 50%;
+  border: 0.2px solid black;
+  padding: 20px;
+  border-radius: 2rem;
+}
+.remember {
+  font-size: small;
+}
+.pass {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.checkb {
+  border: 1px solid black;
+}
+.Fea {
+  margin-left: 100px;
+  width: 80%;
+}
+.pricing {
+  margin-top: 100px;
+  margin-left: 125px;
+  max-width: 80%;
+}
+.close {
+  display: none;
+}
